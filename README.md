@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Website [Create React App](https://gpt-3-ui-ux-website.vercel.app/).
+Live Website [GPT-3-UI-UX-website](https://gpt-3-ui-ux-website.vercel.app/).
 
 ## Available Scripts
 
